@@ -34,8 +34,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $data = [
         "sender" => [
-            "name" => "Abanikannda.rf.gd",
-            "email" => "abanikanndatolulope@gmail.com"
+            "name" => "SENDER NAME HERE",
+            "email" => "SENDER EMAIL HERE"
         ],
         "to" => [[
             "email" => $recipientEmail,
