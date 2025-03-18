@@ -60,7 +60,7 @@ If emails are not sending:
 All images of me featured on this website **are copyrighted and cannot be copied, reused, modified, or sold without my explicit permission**. Unauthorized use will be subject to legal action.
 
 ## 📞 Contact
-For any inquiries or issues, reach out v+2348148226089(whatsapp) or AbanikanndaTolu(facebook,ig,twitter,linkedin).
+For any inquiries or issues, reach out via +2348148226089(whatsapp) or AbanikanndaTolu(facebook,ig,twitter,linkedin).
 
 ---
 © 2025 Tolulope Abanikannda. All rights reserved.
